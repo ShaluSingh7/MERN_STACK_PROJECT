@@ -1,0 +1,3 @@
+The Restaurant Reservation System is a full-stack web application built using the MERN stack — MongoDB, Express.js, React.js, and Node.js. This project allows users to easily book tables online at their favorite restaurants. The system provides an interactive user interface where customers can browse restaurant details, check available dates and times, and make reservations instantly.
+
+For the frontend, React.js is used to create a dynamic and responsive design that works smoothly across all devices. The backend is powered by Node.js and Express.js, which handle server-side logic, authentication, and API requests efficiently. MongoDB is used as the database to store user information, booking details, and restaurant data securely.
